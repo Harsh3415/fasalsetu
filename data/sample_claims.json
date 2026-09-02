@@ -1,0 +1,38 @@
+[
+  {
+    "field_id": "FSL-1024",
+    "farmer_name": "Ramesh Kumar",
+    "district": "Meerut",
+    "crop_type": "Wheat",
+    "area_hectares": 2.3,
+    "damage_type": "Flood submergence",
+    "affected_percentage": 68,
+    "evidence_confidence": 91,
+    "triage_status": "🟡 Priority Human Verification",
+    "timestamp": "2026-09-02T10:30:00Z"
+  },
+  {
+    "field_id": "FSL-1025",
+    "farmer_name": "Suresh Singh",
+    "district": "Muzaffarnagar",
+    "crop_type": "Paddy",
+    "area_hectares": 1.5,
+    "damage_type": "Pest Attack",
+    "affected_percentage": 45,
+    "evidence_confidence": 82,
+    "triage_status": "🟢 Routine Fast Processing",
+    "timestamp": "2026-09-02T11:15:00Z"
+  },
+  {
+    "field_id": "FSL-1026",
+    "farmer_name": "Amit Sharma",
+    "district": "Bulandshahr",
+    "crop_type": "Sugarcane",
+    "area_hectares": 3.1,
+    "damage_type": "Storm Lodging",
+    "affected_percentage": 85,
+    "evidence_confidence": 94,
+    "triage_status": "🔴 Significant Inconsistency / Priority",
+    "timestamp": "2026-09-02T12:00:00Z"
+  }
+]
